@@ -5,6 +5,11 @@
   platform: 'Windows 8'
   resolution: '1280x1024'
 - !ruby/object:Browser 
+  name: 'firefox'
+  version: '26'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
   name: 'internet_explorer'
   version: '8'
   platform: 'Windows XP'
