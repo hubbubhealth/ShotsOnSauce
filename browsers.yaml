@@ -10,6 +10,41 @@
   platform: 'Windows 8'
   resolution: '1280x1024'
 - !ruby/object:Browser 
+  name: 'firefox'
+  version: '27'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
+  name: 'firefox'
+  version: '28'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
+  name: 'firefox'
+  version: '29'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
+  name: 'firefox'
+  version: '30'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
+  name: 'firefox'
+  version: '31'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
+  name: 'firefox'
+  version: '32'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
+  name: 'firefox'
+  version: '33'
+  platform: 'Windows 8'
+  resolution: '1280x1024'
+- !ruby/object:Browser 
   name: 'internet_explorer'
   version: '8'
   platform: 'Windows XP'
