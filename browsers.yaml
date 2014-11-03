@@ -32,17 +32,17 @@
 - !ruby/object:Browser 
   name: 'firefox'
   version: '31'
-  platform: 'Windows 8'
+  platform: 'Windows 7'
   resolution: '1280x1024'
 - !ruby/object:Browser 
   name: 'firefox'
   version: '32'
-  platform: 'Windows 8'
+  platform: 'Windows 7'
   resolution: '1440x900'
 - !ruby/object:Browser 
   name: 'firefox'
   version: '33'
-  platform: 'Windows 8'
+  platform: 'Windows 7'
   resolution: '1920x1200'
 - !ruby/object:Browser 
   name: 'internet_explorer'
